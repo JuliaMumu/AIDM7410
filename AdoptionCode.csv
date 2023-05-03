@@ -1,0 +1,13 @@
+﻿country,status_relationship,sameSex_related,coLiving_time,age_limited,age_difference,time_withChild,religion,financial_situation,health_condition,character,capacity_to_educate,suitability_as_parent,motive,family_environment,history_childCare
+Denmark,2,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+Estonia,2,0,0,2,0,1,1,1,0,1,0,1,0,0,0
+Germany,2,0,2,2,0,1,0,0,0,0,0,0,0,0,0
+Greece,2,0,0,2,2,0,0,1,1,1,0,1,0,1,0
+Hungary,2,0,0,2,2,2,0,0,0,0,0,2,2,0,0
+Ireland,2,0,0,0,0,2,1,0,0,0,0,2,0,0,2
+Israel,2,0,0,0,2,2,2,0,0,0,0,0,0,0,0
+Italy,2,0,2,0,2,1,0,1,1,0,1,2,1,1,0
+Lithuania,2,0,0,2,2,2,0,0,2,0,0,0,0,1,0
+Netherlands,2,2,2,0,2,2,0,0,0,0,0,0,0,0,0
+Poland,2,0,0,0,1,1,0,0,0,0,0,2,0,0,0
+Switzerland,2,0,2,2,2,2,0,2,1,1,0,1,1,1,1
